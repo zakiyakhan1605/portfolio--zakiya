@@ -1,0 +1,14 @@
+.head{
+    margin: 5px;
+    color: black;
+    
+}
+#image{
+    border-radius: 100%;
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}
+.body{
+    background-color: rgb(118, 118, 173);
+}
