@@ -1,6 +1,6 @@
 .head{
     margin: 5px;
-    color: black;
+    color:white;
     
 }
 #image{
@@ -9,6 +9,18 @@
     height: 70px;
     margin: 10px;
 }
-.body{
-    background-color: rgb(118, 118, 173);
+#home{
+    background-color: rgb(102, 102, 186);
+}
+#heading{
+    background-color: black;
+    margin: 0%;
+}
+.hom{
+    background-color: blue;
+    margin: 0%;
+
+}
+#underline{
+    color: rgb(32, 32, 215);
 }
