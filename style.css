@@ -1,26 +1,71 @@
-.head{
-    margin: 5px;
-    color:white;
+body{
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+#navigation{
+    text-align: right;
     
 }
-#image{
-    border-radius: 100%;
-    width: 70px;
-    height: 70px;
-    margin: 10px;
+.nav{
+    color:  #ff004c;
+    background-color: rgba(21, 19, 19, 0.692);
+    text-underline-offset: unset;
 }
-#home{
-    background-color: rgb(102, 102, 186);
-}
-#heading{
-    background-color: black;
-    margin: 0%;
-}
-.hom{
-    background-color: blue;
-    margin: 0%;
+#first{
+
+    color:#ff004c;
 
 }
-#underline{
-    color: rgb(32, 32, 215);
+#want{
+    color: #ff004c;
+}
+
+
+.name{
+text-decoration: solid;
+display: flex;
+}
+.align{
+    line-height: 0;
+    list-style: style;
+    position: absolute;
+    top: 8em;
+    bottom:10em;
+    margin-left: 10em;
+
+}
+#image{
+    border-radius: 0%;
+    position: absolute;
+    top: 12em;
+    bottom: 15em;
+    margin-left: 50em;
+}
+#paragraph{
+
+    
+    position: absolute;
+    top: 15em;
+    bottom:10em;
+    margin-left: 10em;
+
+}
+#Download{
+     background-color:#ff004c;
+     border-color:#ff004c;
+     font-size: small;
+     text-decoration: solid;
+     border-radius: 1em;
+     
+
+}
+#contact{
+    background-color: black;
+    color:#ff004c;
+    border-color:#ff004c;
+    border-radius: 1em;
+}
+.down:hover{
+    background-color: rgb(251, 61, 61); 
 }

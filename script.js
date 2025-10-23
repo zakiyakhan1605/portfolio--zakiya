@@ -1,0 +1,1 @@
+//window.prompt("Write your name!");
