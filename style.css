@@ -69,3 +69,86 @@ display: flex;
 .down:hover{
     background-color: rgb(251, 61, 61); 
 }
+#about{
+     line-height :0;
+    position: absolute;
+    left:41.5em;
+    top: 2em;
+          
+}
+#flex{
+    display: flex;
+    line-height: 0;
+    }
+#in{
+    color: #ff004c;
+
+}
+#ab{
+    color: #ff004c;
+    position: absolute;
+    text-indent: 0%;
+}
+#parap{
+    position: absolute;
+    top: 10em;
+    left: 50em;
+}
+#cont{
+     position: absolute;
+    top: 30em;
+    left: 42.5em;
+    bottom:2em;
+    
+}
+#right{
+    position: absolute;
+    
+    right:10em;
+    bottom: 5em;
+}
+#left{
+    position: absolute;
+    right: 5em;
+    bottom: 5em;
+}
+#skill{
+    position:absolute;
+    top: 2em;
+    left: 32em;
+    line-height: 0em;
+    
+}
+#dis{
+    display: flex;
+}
+#bus{
+    position: absolute;
+    left: 2em;
+}
+#lik{
+    text-align: center;
+}
+#Special{
+    color: #ff004c;
+}
+#bus{
+    color: #ff004c;
+}
+#btn{
+   
+    position: absolute;
+    top: 10em;
+    left: 5em;
+
+}
+.but{
+    background-color: rgba(163, 158, 158, 0.185);
+    color: aliceblue;
+    text-decoration: solid;
+    border-radius: 1em;
+    background-origin: padding-box;
+    height: 15em;
+    width: 28em;
+    align-items: center;
+}
